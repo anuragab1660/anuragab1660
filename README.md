@@ -1,13 +1,3 @@
-<!-- PREMIUM LIGHT GRADIENT BACKGROUND HEADER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anuragab1660/anuragab1660/main/banner.png" alt="Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Anurag Barkhade</h1>
-<h3 align="center">🚀 Android Developer | Flutter Developer | AI & ML Enthusiast</h3>
-
----
-
 ## 🌟 About Me
 
 - 🎓 B.Tech Computer Science Student  
@@ -90,6 +80,13 @@
 - Startup Ready MVPs
 
 ---
+<!-- PREMIUM LIGHT GRADIENT BACKGROUND HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuragab1660/anuragab1660/main/banner.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Anurag Barkhade</h1>
+<h3 align="center">🚀 Android Developer | Flutter Developer | AI & ML Enthusiast</h3>
 
 # 📈 Contribution Graph
 
